@@ -15,9 +15,9 @@ vendor/lib/libllvm-qcom.so
 vendor/lib/libsc-a3xx.so
 vendor/lib/libscale.so
 
-# Graphics firmware (same everywhere, so lets say Samsung G900FXXS1CQI4_G900FPHN1CQI2_PHN)
-vendor/firmware/a330_pfp.fw|3e2fcee7276ded819cf2d95864fdd6788a484ee1
-vendor/firmware/a330_pm4.fw|ae739ea812f9e4462d7bba8b9ead5782d4496618
+# Graphics firmware
+etc/firmware/a330_pfp.fw:vendor/firmware/a330_pfp.fw
+etc/firmware/a330_pm4.fw:vendor/firmware/a330_pm4.fw
 
 # GPS (OnePlus bacon - lineage-14.1-20170807-nightly-bacon-signed.zip)
 vendor/lib/libloc_api_v02.so|9a8401afc86b54e73aa29995f228fd0243cee793
