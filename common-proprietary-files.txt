@@ -32,5 +32,5 @@ vendor/lib/libRSDriver_adreno.so
 vendor/lib/librs_adreno.so
 vendor/lib/librs_adreno_sha1.so
 
-# Widevine (Google angler - OPR6.170623.017)
-vendor/lib/mediadrm/libwvdrmengine.so|66ba66d047044f92eb0eada1faf6a5799ded90ab
+# Widevine
+vendor/lib/mediadrm/libwvdrmengine.so
