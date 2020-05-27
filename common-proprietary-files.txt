@@ -32,8 +32,5 @@ vendor/lib/libRSDriver_adreno.so
 vendor/lib/librs_adreno.so
 vendor/lib/librs_adreno_sha1.so
 
-# STLport (Camera/RIL) - local compile LineageOS/external/stlport@984b8432
-vendor/lib/libstlport.so|0be0a0d13e12fbf95d97d309dcbc25d3f969a469
-
 # Widevine (Google angler - OPR6.170623.017)
 vendor/lib/mediadrm/libwvdrmengine.so|66ba66d047044f92eb0eada1faf6a5799ded90ab
