@@ -27,6 +27,7 @@ vendor/lib/libgeofence.so
 vendor/lib/libizat_core.so
 vendor/lib/liblbs_core.so
 vendor/lib/libloc_core.so
+lib/libgps.utils.so:vendor/lib/libgps.utils.so
 
 # Renderscript
 vendor/lib/libRSDriver_adreno.so
